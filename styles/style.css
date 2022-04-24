@@ -163,6 +163,21 @@ button {
   padding: 5px 10px;
   margin: 0px 5px;
 }
+.project-sample {
+  height: 50%;
+  display: inline-block;
+  background-color: red;
+  margin: 5px;
+}
+.contienr-padding {
+  padding: 30px 20px;
+}
+.project-container {
+  width: 100%;
+  height: 350px;
+  text-align: center;
+  padding-top: 20px;
+}
 /* Hover styles */
 .link-hover:hover {
   background-color: #ccc;
