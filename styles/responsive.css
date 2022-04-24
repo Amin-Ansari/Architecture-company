@@ -41,6 +41,9 @@
   .mobile-show {
     display: inline !important;
   }
+  .project-height {
+    height: 350px;
+  }
 }
 @media all and (min-width: 560px) {
   .width-sm-1 {
@@ -85,6 +88,9 @@
   .mobile-show {
     display: inline !important;
   }
+  .project-height {
+    height: 350px;
+  }
 }
 @media all and (min-width: 780px) {
   .width-md-1 {
@@ -128,6 +134,9 @@
   }
   .mobile-show {
     display: none !important;
+  }
+  .project-height {
+    height: 180px;
   }
 }
 @media all and (min-width: 992px) {
