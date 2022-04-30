@@ -216,7 +216,8 @@ button {
   padding: 0px 35px;
 }
 .paragraph-style {
-  padding: 20px 40px;
+  margin: 0px auto;
+  padding: 20px 18px;
   text-align: justify;
   color: rgb(48, 48, 48);
 }
