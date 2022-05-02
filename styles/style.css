@@ -280,6 +280,21 @@ input {
   background-size: cover;
   height: 600px;
 }
+.footer-style {
+  background-color: #000;
+}
+.footer-container {
+  margin: auto;
+  color: #fff;
+  text-align: center;
+}
+.footer-container > p {
+  padding: 40px 0px;
+}
+.source-link {
+  padding: 0px 5px;
+  color: #ccc;
+}
 /* Hover styles */
 .link-hover:hover {
   background-color: #ccc;
