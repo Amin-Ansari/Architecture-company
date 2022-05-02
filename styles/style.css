@@ -219,7 +219,7 @@ button {
   margin: 0px auto;
   padding: 20px 18px;
   text-align: justify;
-  color: rgb(48, 48, 48);
+  color: rgb(43, 43, 43);
 }
 .member-list {
   width: 300px;
@@ -242,6 +242,8 @@ button {
   padding: 8px 10px;
   text-align: justify;
   word-spacing: -1px;
+  font-size: 14px;
+  color: rgb(43, 43, 43);
 }
 .team-list {
   margin: auto;
