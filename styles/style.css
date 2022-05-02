@@ -275,6 +275,11 @@ input {
   border-radius: 3px;
   transition: all 0.5s;
 }
+.map-section {
+  background: url(../images/map.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
 /* Hover styles */
 .link-hover:hover {
   background-color: #ccc;
